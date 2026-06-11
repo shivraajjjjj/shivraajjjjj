@@ -4,8 +4,7 @@ building and deploying full-stack applications using React, Node.js, and Express
 Strong focus on real-world problem solving,
 backend logic, and clean API design. Actively seeking a
 remote, portfolio-driven software development internship.
-## Portpholio:
-[![Shivraj](https://portpholio-sand.vercel.app/)]
+## Portpholio: https://portpholio-sand.vercel.app
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivraajjjjj_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajpootshivraj1@gmail.com) 
 
